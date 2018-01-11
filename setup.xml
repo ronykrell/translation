@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <context_setup_request>
+    <title>mafaat1</title>
+    <apiversion>1.0</apiversion>
+    <nlu_states/>
+    <context_uid>IDEUtteranceProcessor</context_uid>
+</context_setup_request>
